@@ -18,6 +18,19 @@
 <br />
 <br />
 
+## A riddle for you
+
+```dart
+void main() {
+  var Contact_Me = 'Dart1234';
+if(interested(InFlutter || inMachineLearning)){
+return ContactMe ;
+}
+else{
+  print('Nice To See You .');
+}
+}
+```
 # Contact Me  
 <p align="center">
 <br>
@@ -25,9 +38,3 @@
 <a href="https://www.linkedin.com/in/sohaibhom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="SohaibHom@gmail.com?subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-## A riddle for you
-
-```dart
-void main() {
-  print('Hello, World!');
-}
