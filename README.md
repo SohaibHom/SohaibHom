@@ -2,7 +2,7 @@
 **Machine Learning & software engineer** graduated from **University Of Mohamed Boudiaf**
 ## About me
 
-- 🌱 I'm currently working on **mobile, web, and desktop applications** using Flutter .
+- 🌱 I'm currently working on **mobile, web, and desktop applications** development using Flutter .
 - 🔭 passionate about buliding Smart systems using flutter & TensorFlow.
 - ⚡ Flutter build --release ;
 
@@ -22,9 +22,12 @@
 
 ```dart
 void main() {
+
   var Contact_Me = 'Sohaib Hom' ;
     if( Interested(InFlutter) || Interested(inML) ) {
+
       return Contact_Me ;
+
     } else {
      return print('Nice To See You .') ;
     }
