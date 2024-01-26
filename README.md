@@ -24,9 +24,9 @@
 void main() {
   var Contact_Me = 'Sohaib Hom' ;
   if( Interested(InFlutter) || Interested(inML) ) {
-      return Contact_Me ;
+      return print('You CAN contact, $Contact_Me') ;
   } else {
-     return print('Nice To See You .') ;
+     return print('Nice To Meet You .') ;
   }
 }
 ```
