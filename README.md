@@ -1,9 +1,9 @@
-# Hi there, I'm Sohaib Hom 👋
-**Machine Learning & software engineer** graduated from **University Of Mohamed Boudiaf **
+# Hello World, This is Sohaib Hom 👋
+**Machine Learning & software engineer** graduated from **University Of Mohamed Boudiaf**
 ## About me
 
-- 🌱 I'm currently working on **mobile, web, and desktop applications** using Flutter & TensorFlow .
-- 🔭 passionate about buliding Smart systems using flutter .
+- 🌱 I'm currently working on **mobile, web, and desktop applications** using Flutter .
+- 🔭 passionate about buliding Smart systems using flutter & TensorFlow.
 - ⚡ Flutter build --release ;
 
 ## Languages and Tools
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-## A riddle for you
+## A puzzle for you
 
 ```dart
 void main() {
