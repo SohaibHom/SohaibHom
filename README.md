@@ -21,17 +21,11 @@
 <br />
 <br />
 
-# Contact Me
+#To Contact Me
 
-You can reach me on the following platforms:
-
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" width="20" height="20" style="color: #0e76a8"> **LinkedIn:** [sohaibhom](https://stackoverflow.com/questions/63913973/how-can-i-put-fontawesome-icons-in-markdown-readme-file-that-will-be-uploaded)
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20" style="color: #E1306C"> **Instagram:** [sohaibhom](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook-f.svg" width="20" height="20" style="color: #1877F2"> **Facebook:** [sohaibhom](https://www.markdownguide.org/basic-syntax/)
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram-plane.svg" width="20" height="20" style="color: #0088cc"> **Telegram:** [sohaibhom](https://use.fontawesome.com/releases/v5.14.0/css/all.css)
-
-You can also send me an email at <YOUR EMAIL ADDRESS>.
-
+# Kunal Raghav  
+[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
 
 ## GitHub Stats
 
