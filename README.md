@@ -22,13 +22,12 @@
 
 ```dart
 void main() {
-  var Contact_Me = 'Dart1234';
-if(interested(InFlutter || inMachineLearning)){
-return ContactMe ;
-}
-else{
-  print('Nice To See You .');
-}
+  var Contact_Me = 'Sohaib Hom';
+    if( Interested(InFlutter) || Interested(inML) ){
+      return Contact_Me ;
+    }else{
+     return print('Nice To See You .');
+    }
 }
 ```
 # Contact Me  
