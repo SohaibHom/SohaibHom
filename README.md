@@ -1,8 +1,8 @@
-                                ##### HELLO WORLD !
+##### HELLO WORLD!
 
 <h2> I'm Sohaib Hom ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>ML & Software Engineer with Master's Degree From  <a href="https://www.univ-msila.dz/en/">University Of Msila</a><img src="https://th.bing.com/th/id/OIP.4gnaKpq8qkID4ll7HZ4sugAAAA?rs=1&pid=ImgDetMain" width="30"> 
+<p><em>ML & Software Engineer Graduated from  <a href="https://www.univ-msila.dz/en/">University Of Msila</a><img src="https://th.bing.com/th/id/OIP.4gnaKpq8qkID4ll7HZ4sugAAAA?rs=1&pid=ImgDetMain" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
