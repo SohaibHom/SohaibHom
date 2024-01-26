@@ -1,6 +1,6 @@
 
 <h1> Hello World ! <img src="" width="50"></h1>
-<img align='left' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0)"  width="230">
+<img align='left' src="https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0"  width="230">
 <p><em>ML & Software Engineer Graduated from  <a href="https://www.univ-msila.dz/en/">University Of Msila</a>
     <!-- img src="https://th.bing.com/th/id/OIP.4gnaKpq8qkID4ll7HZ4sugAAAA?rs=1&pid=ImgDetMain" width="30"> 
 </em></p>
