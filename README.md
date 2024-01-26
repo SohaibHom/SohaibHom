@@ -21,17 +21,17 @@
 <br />
 <br />
 
-
 # Contact Me
 
 You can reach me on the following platforms:
 
-- [LinkedIn](https://stackoverflow.com/questions/63913973/how-can-i-put-fontawesome-icons-in-markdown-readme-file-that-will-be-uploaded) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="20" height="20">
-- [Instagram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20">
-- [Facebook](https://www.markdownguide.org/basic-syntax/) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="20" height="20">
-- [Telegram](https://use.fontawesome.com/releases/v5.14.0/css/all.css) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="20" height="20">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" width="20" height="20" style="color: #0e76a8"> **LinkedIn:** [sohaibhom](https://stackoverflow.com/questions/63913973/how-can-i-put-fontawesome-icons-in-markdown-readme-file-that-will-be-uploaded)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="20" height="20" style="color: #E1306C"> **Instagram:** [sohaibhom](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook-f.svg" width="20" height="20" style="color: #1877F2"> **Facebook:** [sohaibhom](https://www.markdownguide.org/basic-syntax/)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram-plane.svg" width="20" height="20" style="color: #0088cc"> **Telegram:** [sohaibhom](https://use.fontawesome.com/releases/v5.14.0/css/all.css)
 
 You can also send me an email at <YOUR EMAIL ADDRESS>.
+
 
 ## GitHub Stats
 
