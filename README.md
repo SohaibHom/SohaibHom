@@ -2,8 +2,8 @@
 **Machine Learning & software engineer** graduated from **University Of Mohamed Boudiaf **
 ## About me
 
-- 🌱 I'm currently working on **mobile, web, and desktop applications** using Flutter & TensorFlow ;
-- 🔭 passionate about buliding Smart systems using flutter ;
+- 🌱 I'm currently working on **mobile, web, and desktop applications** using Flutter & TensorFlow .
+- 🔭 passionate about buliding Smart systems using flutter .
 - ⚡ Flutter build --release ;
 
 ## Languages and Tools
@@ -25,6 +25,9 @@
 <a href="https://www.linkedin.com/in/sohaibhom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="SohaibHom@gmail.com?subject"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-## GitHub Stats
+## A riddle for you
 
-<img align="left" alt="sohaibhom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sohaibhom&show_icons=true&hide_border=true" />
+```dart
+void main() {
+  print('Hello, World!');
+}
