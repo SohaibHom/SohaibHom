@@ -22,15 +22,12 @@
 
 ```dart
 void main() {
-
   var Contact_Me = 'Sohaib Hom' ;
-    if( Interested(InFlutter) || Interested(inML) ) {
-
+  if( Interested(InFlutter) || Interested(inML) ) {
       return Contact_Me ;
-
-    } else {
+  } else {
      return print('Nice To See You .') ;
-    }
+  }
 }
 ```
 # Contact Me  
