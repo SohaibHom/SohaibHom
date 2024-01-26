@@ -4,10 +4,7 @@
 
 - 🔭 I'm a **ML & software engineer** graduated from **Mohamed Boudiaf University**
 - 🌱 I'm currently working on **mobile, web, and desktop applications** using **Dart, Flutter, VS Code**
-- 💬 Ask me about **office software**, I'm good at them
-- 📫 How to reach me: You can find me on [LinkedIn](https://www.sitepoint.com/github-profile-readme/), [Instagram](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), [Facebook](https://careerkarma.com/blog/github-profile-readme/), and [Telegram]
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **<A FUN FACT ABOUT YOU>**
+- ⚡ Flutter build --release
 
 ## Languages and Tools
 
@@ -22,7 +19,7 @@
 <br />
 
 # Contact Me  
-[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohaibhom/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
 [![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
 
 ## GitHub Stats
