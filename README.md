@@ -16,11 +16,7 @@
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
-<img align="left" alt="Anaconda" width="26px" src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" />
 <img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<img align="left" alt="VS Studio" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" />
-<img align="left" alt="LaTeX" width="26px" src="https://www.vectorlogo.zone/logos/latex-project/latex-project-icon.svg" />
-<img align="left" alt="Office" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" />
 
 <br />
 <br />
