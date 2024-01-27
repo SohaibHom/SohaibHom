@@ -1,6 +1,8 @@
 # Hello World, This is Sohaib Hom 👋
 **Machine Learning & software engineer** **graduated from** **University Of Mohamed Boudiaf**
-
+<div align="right">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
+</div>
 ## About me
 
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter** .
