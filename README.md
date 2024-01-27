@@ -1,13 +1,15 @@
 # Hello World, This is Sohaib Hom 👋
 **Machine Learning & software engineer** **graduated from** **University Of Mohamed Boudiaf**
-<div align="right">
-  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
-</div>
+
 ## About me
 
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter** .
 - 🔭 passionate about building **Smart systems** using **Flutter & TensorFlow**.
 - ⚡ **Flutter build --release** ;
+- 
+<div align="right">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
+</div>
 
 ## Languages and Tools
 
@@ -35,7 +37,9 @@ void main() {
   }
 }
 ```
-# Contact Me  
+# 📫 How to Reach Me
+**You can find me on LinkedIn.**
+
 <p align="center">
 <br>
 <a href="https://www.facebook.com/sohaibhom16"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
