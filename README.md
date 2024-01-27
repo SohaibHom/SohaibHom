@@ -3,9 +3,10 @@
 
 # 📌 About me
 
-- 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter** .
+- 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter**.
 - 🔭 passionate about building **Smart systems** using **Flutter & TensorFlow**.
-- 🧮 Solving problems in innovative ways? *That is my hobby*
+- 🧮 Solving problems in innovative ways? ****That is my hobby****.
+- ⏰ Time is my currency.
 - ⚡ **Flutter build --release** ;
 
 <div align="right">
