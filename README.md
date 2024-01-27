@@ -1,7 +1,7 @@
-# Hello World, This is Sohaib Hom 👋
+# Hello World, This is Sohaib Hom 👋👋
 **Machine Learning & software engineer** **graduated from** **University Of Mohamed Boudiaf**
 
-# About me
+# 📌 About me
 
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter** .
 - 🔭 passionate about building **Smart systems** using **Flutter & TensorFlow**.
@@ -23,7 +23,7 @@
 <br />
 <br />
 
-# A puzzle for you
+# A puzzle for you❓
 
 ```dart
   //I believe that the comments are as important as the code
