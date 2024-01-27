@@ -5,9 +5,9 @@
 
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter**.
 - 🔭 passionate about building **Smart systems** using **Flutter & TensorFlow**.
-- 🧮 Solving problems in innovative ways? ****That is my hobby****.
-- ⏰ Time is my currency.
-- ⚡ **Flutter build --release** ;
+- 🧮 Solving problems in innovative ways? ****That's my hobby****.
+- ⏰ And **Time** is my **currency**.
+- ⚡ ****Flutter build --release**** ;
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
