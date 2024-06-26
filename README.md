@@ -10,7 +10,7 @@ And i work now as part-time computer science teacher, teaching algorithms, compu
 - 🧮 Solving problems in innovative ways? ****That's my hobby****.
 - ⏰ And **Time** is my **currency**.
 - ⚡ ****Flutter build --release**** ;
-- 
+  
 <div align="right">
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
 </div>
