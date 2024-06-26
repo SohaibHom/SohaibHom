@@ -1,5 +1,5 @@
 # Hello World, This is Sohaib Hom 👋👋
-**Machine Learning & software engineer** **graduated from** **University Of Mohamed Boudiaf**
+**Machine Learning & software engineer** **graduated from** **University of M'sila**
  
 # 📌 About me   
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter**.
