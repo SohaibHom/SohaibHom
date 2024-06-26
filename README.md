@@ -1,13 +1,16 @@
 # Hello World, This is Sohaib Hom 👋👋
 **Machine Learning & software engineer** **graduated from** **University of M'sila**
- 
+ With a Master's degree in Computer Science specializing in Software Engineering and Information Systems from the University Mohamed Boudiaf of M’Sila, Algeria, I have a strong foundation in mobile application development and developing artificial intelligence systems. I have developed projects such as ProtectIn, an anti-theft system for smartphones, and MsilaNature, to organize volunteer tree planting campaigns.
+
+And i work now as part-time computer science teacher, teaching algorithms, computer architecture, machine structure, and office tools, for both technicians and senior technicians. My skills span across multiple programming languages including Python, C, C++, Dart, SQL, and JavaScript, and I am proficient with tools like VS Code, LaTeX, and Linux systems.
+
 # 📌 About me   
 - 🌱 I'm currently working on **mobile, web, and desktop applications** development using **Flutter**.
 - 🔭 passionate about building **Smart systems** using **Flutter & TensorFlow**.
 - 🧮 Solving problems in innovative ways? ****That's my hobby****.
 - ⏰ And **Time** is my **currency**.
 - ⚡ ****Flutter build --release**** ;
-
+As you can check my projects on Behance & GitHub.
 <div align="right">
   <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" width="100">
 </div>
