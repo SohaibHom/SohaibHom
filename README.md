@@ -1,4 +1,4 @@
-# Hello World, This is Sohaib Hom 👋👋
+# Hello World, This is Sohaib Haouam 👋👋
 **Machine Learning & software engineer** **graduated from** **University of M'sila :**
  with a Master's degree in Computer Science specializing in Software Engineering and Information Systems, I have a strong foundation in mobile application development and developing artificial intelligence systems. I have developed projects such as ProtectIn, an anti-theft system for smartphones, and MsilaNature, to organize volunteer tree planting campaigns.
 
